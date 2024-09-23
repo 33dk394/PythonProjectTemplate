@@ -5,5 +5,5 @@ def main():
     app1.foo1()
     app2.foo2()
 
-if __name__ == "__main__":
+if __name__ == "__main__":# pragma: no cover
     main()
